@@ -47,24 +47,26 @@ font-size: 16px;"> Last access : 20 November 2024 &nbsp; <a href="#" class="btn 
 				<li class="text-center">
                     <img src="assets/img/find_user.png" class="user-image img-responsive"/>
 					</li>
+<!-- 			#BAGIAN NAVBAR SAMPING DALAM PROSES PENGEMBANGAN -->
 				
 					
-                    <li >
+<!--                     <li >
                         <a  href="index.php"><i class="fa fa-dashboard fa-3x"></i> Dashboard </a>
-                    </li> 
+                    </li>  -->
 
-                    <li>
+<!--                     <li>
                         <a  href="?page=anggota"><i class="fa fa-dashboard fa-3x"></i> Data Anggota </a>
-                    </li> 
+                    </li>  -->
 
                     <li>
                         <a  href="?page=buku"><i class="fa fa-dashboard fa-3x"></i> Data Buku </a>
                     </li> 
 
-                    <li>
+<!--                     <li>
                         <a  href="?page=transaksi"><i class="fa fa-dashboard fa-3x"></i> Transaksi </a>
                     </li> 
-                  <li  >
+                  <li  > -->
+<!-- 			END NAVBAR SIDE -->
                
             </div>
             
